@@ -2,17 +2,17 @@
 
 
 
-# [Project Name] 🎯
+# Lazy Bottle 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Clean Sheets
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Aswin Ram P- Toc H Institute of Science and Technology  
+- Member 2: Hariprasad S - Toc H Institute of Science and Technology 
+ 
 
 ### Project Description
 [2-3 lines about what your project does]
