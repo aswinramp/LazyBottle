@@ -15,83 +15,44 @@
  
 
 ### Project Description
-[2-3 lines about what your project does]
+A Wifi tracking robot which tracks and follows the owners where the Wifi strength is excellent with a bottle of water for hydration and voice commands( for bottle picked , bottle returned and arrival of the robot).Also uses timer for hydration breaks.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+The Unwanted Laziness of humans where we cant even get up to even drink water when thirsty
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+A Wifi tracking robot which tracks our wifi strength in time intervals and follows the owner and remind them to be in hydration.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- C++
+- Arduino framework for ESP32
+- Wifi.h , DFRobotDFPlayerMini
+- Arduino IDE
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- ESP32 , 2W drive robot frame , DF player mini mp3 module with speaker , TB6612FNG motor driver , microSDcard , IR proximity sensor
 
-### Implementation
-For Software:
-# Installation
-[commands]
-
-# Run
-[commands]
-
-### Project Documentation
-For Software:
-
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
 
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+https://drive.google.com/file/d/1OoZSeXv5cU0UpnFhO4OZ2hV-aOAau5WT/view?usp=drive_link
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
+ https://drive.google.com/file/d/17IuzIDdQqAbbLJiikA9RPpGIVBrfvNCE/view?usp=drive_link
+ https://drive.google.com/file/d/1wzqdH_g4UTRIao7eeZkEGxl_2wcnucM9/view?usp=drive_link
+ https://drive.google.com/file/d/10n2jDmXRYwbuteOfv7gz-haR7KL91LCF/view?usp=drive_link
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+https://drive.google.com/file/d/1ZPU_wHG0OI-M7GARG5khGkTRvCYyr96E/view?usp=drive_link
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+-  Hariprasad S: Both hardware and software
+-  Aswin Ram P:  Both hardware and software
+  
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
