@@ -37,12 +37,14 @@ For Hardware:
 
 # Schematic & Circuit
 
-https://drive.google.com/file/d/1OoZSeXv5cU0UpnFhO4OZ2hV-aOAau5WT/view?usp=drive_link
+<img width="1080" height="1350" alt="schematic" src="https://github.com/user-attachments/assets/598c5a4d-20d8-4f01-95f7-cfeb381fcf7f" />
+
 
 # Build Photos
- https://drive.google.com/file/d/17IuzIDdQqAbbLJiikA9RPpGIVBrfvNCE/view?usp=drive_link
- https://drive.google.com/file/d/1wzqdH_g4UTRIao7eeZkEGxl_2wcnucM9/view?usp=drive_link
- https://drive.google.com/file/d/10n2jDmXRYwbuteOfv7gz-haR7KL91LCF/view?usp=drive_link
+<img width="3024" height="4032" alt="first" src="https://github.com/user-attachments/assets/f4dda95d-1dd9-465d-8482-88003b6494a9" />
+<img width="3024" height="4032" alt="second" src="https://github.com/user-attachments/assets/bfd186a9-670f-44d3-863b-9edc588216a2" />
+<img width="4032" height="3024" alt="third" src="https://github.com/user-attachments/assets/a4c0d2fd-c2f1-40ce-9b87-e1e8be3a2929" />
+
 
 ### Project Demo
 # Video
